@@ -1,0 +1,25 @@
+*{
+    font-family: Lemonada, sans-serif;
+}
+body{
+    background-color: black;
+}
+.d-block{
+    height: 600px;
+}
+#mainDiv{
+    padding: 20px;
+}
+#carouselExampleIndicators{
+    box-shadow: 5px 5px 15px 5px rgba(185, 187, 185, 0.4),  -5px -5px 15px 5px rgba(185, 187, 185, 0.4);
+}
+#welcome{
+    text-align: center;
+    font-size: 4em;
+    margin: 10px;
+    color: white;
+}
+.card{
+    margin-top: 40px;
+    box-shadow: 5px 5px 15px 5px rgba(185, 187, 185, 0.4),  -5px -5px 15px 5px rgba(185, 187, 185, 0.4);
+}
